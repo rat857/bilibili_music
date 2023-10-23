@@ -3,7 +3,7 @@ bilibili的视频的音频下载及播放，emmmmmmm🤪，很难描述
 
 先上效果图：
 
-![](Pictures.ass/231023_12h18m11s_screenshot.png)
+![一张图片](Pictures.ass/231023_12h18m11s_screenshot.png)
 
 ### 前置提示
 
